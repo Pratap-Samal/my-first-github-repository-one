@@ -1,1 +1,2 @@
 another-file  added in remote repository directly
+This is a new line added
